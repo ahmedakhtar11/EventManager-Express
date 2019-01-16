@@ -1,0 +1,34 @@
+body {
+
+background-image: url("../img/heaven.jpg");
+}
+ul {
+    list-style-type: none;
+}
+button,form {
+    display: inline-block;
+}
+
+#burgers_eaten {
+    float:right;
+
+    width: 45%;
+}
+#burger{
+    margin: 0 20%;
+    overflow: auto;
+}
+
+#list_burgers {
+
+    float: left;
+    
+    width: 45%;
+}
+
+#header,#add {
+
+    text-align:center;
+    clear: both;
+
+}

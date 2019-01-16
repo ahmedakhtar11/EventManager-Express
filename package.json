@@ -1,0 +1,28 @@
+{
+  "name": "eventmanager-express",
+  "version": "1.0.0",
+  "description": "Event Managment Web-App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmed Akhtar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.6.1",
+    "express": "^*",
+    "express-handlebars": "^3.0.0",
+    "express-myconnection": "^1.0.4",
+    "handlebars": "^4.0.12",
+    "http": "0.0.0",
+    "method-override": "*",
+    "morgan": "*",
+    "mysql": "*",
+    "mysql2": "*",
+    "path": "*",
+    "pug": "^2.0.3",
+    "sequelize": "*",
+    "timber": "*"
+  }
+}
